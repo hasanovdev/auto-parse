@@ -1,0 +1,1437 @@
+[
+    {
+        "id": "47c7bc9d-2722-4e3b-a082-023ae8df712a",
+        "title": "Acura Integra",
+        "year": "2024",
+        "body_style": "Лифтбек",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/acura/integra_2024/icon_acuraintegra2024_small_preview_no_crop.png"
+    },
+    {
+        "id": "b48f4bae-14b7-41d4-a6b6-9f05a9c6ec85",
+        "title": "Acura Integra",
+        "year": "2023",
+        "body_style": "Лифтбек",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/acura/integra_2022/integra_23_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "350d2f42-4420-4e65-ae71-75d60554f7b5",
+        "title": "Acura MDX",
+        "year": "2024",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/acura/acura_mdx_2023/acuraprev_small_preview_no_crop.png"
+    },
+    {
+        "id": "251adf65-85a9-4197-9f26-5ed4d9683302",
+        "title": "Acura MDX",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/acura/acura_mdx_2023/1icon_acuramdx2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "2ba6a43c-4bca-4981-b52a-9a35192f88d7",
+        "title": "Acura NSX",
+        "year": "2022",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/acura/acura_nsx_2022/1icon_acura_nsx_2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "5c554419-9fa7-4037-a500-cf8e244444c2",
+        "title": "Acura NSX",
+        "year": "2021",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/acura_nsx_2020/acura-11_small_preview_no_crop.png"
+    },
+    {
+        "id": "2650cc21-5226-43b9-8451-e2aa19fc77d4",
+        "title": "Acura RDX",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/acura/acura_rdx_2023/icon_rdx2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "9221348f-ec5f-4579-8341-22d971fe94ae",
+        "title": "Acura RDX",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/rdx_2021/03_1_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "5cdb6858-ae4e-4987-917e-218ba2e61a92",
+        "title": "Acura TLX",
+        "year": "2023",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/acura/acura_tlx_2023/icon_acuratlx_small_preview_no_crop.png"
+    },
+    {
+        "id": "64f11a49-49cf-4395-afc8-d4aa7d8c3048",
+        "title": "Acura TLX",
+        "year": "2022",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/acura_tlx_2021/icon22_zTwMhyB_small_preview_no_crop.png"
+    },
+    {
+        "id": "f6ca3f26-50cd-464b-b6e6-83c054a18229",
+        "title": "Bentley Bentayga",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/bentley/bentayga_small_preview_no_crop.png"
+    },
+    {
+        "id": "7adf93cf-ad61-4864-b0d6-6e0ff00c5f2f",
+        "title": "Bentley Continental GT",
+        "year": "2022",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/bentley/m_634_speed_front_small_preview_no_crop.png"
+    },
+    {
+        "id": "48fe52e0-8023-4746-b1f6-d8183837f2b9",
+        "title": "Bentley Flying Spur",
+        "year": "2022",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/bentley/spurorig_small_preview_no_crop.png"
+    },
+    {
+        "id": "92089c9a-6df9-4a36-bd43-a2a60e5c12e6",
+        "title": "Cadillac CT4",
+        "year": "2024",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/cadillac/ct4/2024/cadillac_ct4_2024_blackwing_jePuIoP_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "403719c2-2657-4414-b884-bcd5c59b0aec",
+        "title": "Cadillac CT4",
+        "year": "2023",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/cadillac/ct4/2023/2023_ct4_blackwing_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "cfde01d9-ba27-4cdf-b033-3c80ab98366d",
+        "title": "Cadillac CT5",
+        "year": "2024",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/cadillac/ct5/2024/blackwing_24_icon_Oovu98s_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "24be60ff-145d-477a-aa44-6fbb51f12602",
+        "title": "Cadillac CT5",
+        "year": "2023",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/cadillac/ct5/cadillac_ct5_2023_blackwing_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "6c73246b-3fc2-4fc5-b5a9-1980be6cd023",
+        "title": "Cadillac Escalade",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/cadillac/escalade_2023/4icon_cadillac_esv_2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "dcb1dfb1-a784-4446-946d-a741d3b5b52d",
+        "title": "Cadillac Escalade",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/cadillac/escalade_2022/1_icon_escalade_2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "2e723162-ad35-4efb-ae7e-121b6df6cf3d",
+        "title": "Cadillac Escalade-V",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/cadillac/escalade_v_2023/1icon_escalade_esv-v_2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "17718d6d-8b78-4c80-a1df-f600207032fb",
+        "title": "Cadillac Lyriq",
+        "year": "2024",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/cadillac/lyriq_2024/icon_cadillaclyriq2024_small_preview_no_crop.png"
+    },
+    {
+        "id": "e40b128e-7242-453e-a5fa-1eedbec93329",
+        "title": "Cadillac Lyriq",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/cadillac/liryq/2023_cadillac_lyriq_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "e52522ac-a315-4c16-ab8d-f4baf9048484",
+        "title": "Cadillac XT6",
+        "year": "2024",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/cadillac/xt6_2024/icon_xt6_2024_small_preview_no_crop.png"
+    },
+    {
+        "id": "e54e2cd8-8898-4cc1-8bc6-b58f6fd52277",
+        "title": "Cadillac XT6",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/cadillac/xt6_2023/1iconxt6_2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "f84ecd0a-ec07-4e5b-b3b1-e32f0b4ce255",
+        "title": "Chevrolet Blazer",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/blazer_2023/1iridescentpearl_premier_chevroletblazer_small_preview_no_crop.png"
+    },
+    {
+        "id": "3e03bfc5-7017-4d10-95e5-9fd7ce5400c6",
+        "title": "Chevrolet Blazer",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/blazer_2022/11icon_chevroletblazer2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "6a66f4c1-1922-45b8-9566-e2ad4b7687bb",
+        "title": "Chevrolet Camaro",
+        "year": "2023",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/camaro_2023/icon_camaro_2023_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "536f8dde-9734-4d01-98e6-0d8396ae31ed",
+        "title": "Chevrolet Camaro",
+        "year": "2022",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/camaro_2022/3icon_camaro2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "3d8ed9f2-9ca5-4c06-b84f-7f1c192baba1",
+        "title": "Chevrolet Colorado",
+        "year": "2023",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/colorado_2023/icon_chevroletcolorado2023_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "b2af45ec-3315-4702-ae98-b79e99732c7f",
+        "title": "Chevrolet Colorado",
+        "year": "2022",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/colorado_2022/colorado1_small_preview_no_crop.png"
+    },
+    {
+        "id": "6634e928-dc9e-4ab5-972d-5bf177b356c2",
+        "title": "Chevrolet Corvette Stingray",
+        "year": "2023",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/corvette2023/crv2023pv_small_preview_no_crop.png"
+    },
+    {
+        "id": "fcd517d6-139c-474a-8f8e-091a15ed3b8f",
+        "title": "Chevrolet Corvette Stingray",
+        "year": "2022",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/corvette_2022/2022_corvette_pv1_small_preview_no_crop.png"
+    },
+    {
+        "id": "2f4da038-a373-407e-aa83-6211da5d9807",
+        "title": "Chevrolet Corvette Z06",
+        "year": "2023",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/corvette2023/z30ac_wp_small_preview_no_crop.png"
+    },
+    {
+        "id": "f5b31da4-9ae7-4b41-b271-027d1296eb63",
+        "title": "Chevrolet Explorer",
+        "year": "2022",
+        "body_style": "Автобус",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/explorervan/chevex2022_small_preview_no_crop.jpeg"
+    },
+    {
+        "id": "31e31f29-a0a7-4160-bd6d-7fce326ee91c",
+        "title": "Chevrolet Express Cargo",
+        "year": "2023",
+        "body_style": "Автобус",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/express_cargo/2023/r_si2_small_preview_no_crop.png"
+    },
+    {
+        "id": "393e7cf5-b930-4843-a3a6-2f591ef75096",
+        "title": "Chevrolet Express Cargo",
+        "year": "2022",
+        "body_style": "Автобус",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/express_cargo/2022expcargopv_small_preview_no_crop.png"
+    },
+    {
+        "id": "a387a633-4547-4e47-8fe1-d5e4ea261987",
+        "title": "Chevrolet Express Passenger",
+        "year": "2023",
+        "body_style": "Автобус",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/express_passenger/2023/e_b2_small_preview_no_crop.png"
+    },
+    {
+        "id": "14bc6bc0-2870-4b2b-9ac1-a06058eb1274",
+        "title": "Chevrolet Express Passenger",
+        "year": "2022",
+        "body_style": "Автобус",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/express_passenger/2022exprpass_small_preview_no_crop.png"
+    },
+    {
+        "id": "b5803f0b-a784-4dbf-8856-54249dd24794",
+        "title": "Chevrolet Silverado 1500",
+        "year": "2023",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/silverado_1500_2023/icon_silverado_1500_2023_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "34355f87-06b0-466c-b1e5-d17857bbcbc3",
+        "title": "Chevrolet Silverado 1500",
+        "year": "2022",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/silverado_1500_2022/silv1500zr2_icon_small_preview_no_crop.png"
+    },
+    {
+        "id": "3f4ce175-da5f-42fc-a449-ab874f41d90b",
+        "title": "Chevrolet Silverado 1500 LTD",
+        "year": "2022",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/silverado_1500_2022/2022_silverado_1500_icon1_small_preview_no_crop.png"
+    },
+    {
+        "id": "d8910947-241b-48ca-887a-139f7d8dcbf4",
+        "title": "Chevrolet Silverado 2500 HD",
+        "year": "2024",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/silverado_2500_2024/2024_silverado_2500_hd_ccstb_high_country_sw_1_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "9bc8dcca-488d-4f8d-8dbd-32e39e39b32b",
+        "title": "Chevrolet Silverado 2500 HD",
+        "year": "2023",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/silverado_2500_2023/icon_silverado_2500hd_2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "60bc3eb4-1ae3-4bb5-8445-96f62008d882",
+        "title": "Chevrolet Silverado 3500 HD",
+        "year": "2023",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/silverado_3500_2023/2023_silverado_3500_hd_cclb_high_country_drw_b_1_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "72e2a4b2-7d55-4a25-9d04-23debba8bd23",
+        "title": "Chevrolet Silverado 3500 HD",
+        "year": "2022",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/3500_2022/2022_silverado_3500_hd_cclb_high_country_drw_sim_1_small_preview_no_crop.png"
+    },
+    {
+        "id": "676aae78-eca6-44cc-acc2-0c728f1c5d6b",
+        "title": "Chevrolet Suburban",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/suburban_2023/suburban2023_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "b938fbaf-5db1-4a5f-891b-7acaaaeaf799",
+        "title": "Chevrolet Suburban",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/suburban/suburban_22_small_preview_no_crop.png"
+    },
+    {
+        "id": "0bc0dd2e-ef0b-42b1-865c-ec1f3b6023b6",
+        "title": "Chevrolet Tahoe",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/tahoe_2023/tahoe1_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "f1926505-fae6-4162-82e5-a3877b15bfaa",
+        "title": "Chevrolet Tahoe",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chevrolet/tahoe_2022/satin2_small_preview_no_crop.png"
+    },
+    {
+        "id": "90e63116-00ee-43d4-9024-15813758abb4",
+        "title": "Chrysler 300",
+        "year": "2023",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chrysler/chrysler_300_2023/icon_chrysler300_2023_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "66429250-7b3b-4276-8dbf-d8955db45a5d",
+        "title": "Chrysler 300",
+        "year": "2022",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chrysler/chrysler_300_2022/iiicon_chrysler300_2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "a210be8e-ccb0-4920-bb08-34fc3adf5885",
+        "title": "Chrysler Pacifica",
+        "year": "2023",
+        "body_style": "Минивэн",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chrysler/pacifica_2023/pacificaprev_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "eeea8e44-e703-4311-b31c-cbf6d10b7bda",
+        "title": "Chrysler Pacifica",
+        "year": "2022",
+        "body_style": "Минивэн",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/chrysler/pacifica_2022/white1_IvAwoeq_small_preview_no_crop.png"
+    },
+    {
+        "id": "70dec77b-49f5-480b-a090-d0927e8d5782",
+        "title": "Dodge Challenger",
+        "year": "2023",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/dodge/challenger_2023/prev_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "76dc993e-9280-45b8-8c5f-1a3ead095228",
+        "title": "Dodge Challenger",
+        "year": "2022",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/dodge/challenger_2022/2022chalpv_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "98b2d96e-00cf-4b47-99a3-e9fea2364079",
+        "title": "Dodge Charger",
+        "year": "2023",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/dodge/charger_2023/icon_dodgecharger2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "0b30ac12-bdcb-4ef3-adb2-c08bab9abae5",
+        "title": "Dodge Charger",
+        "year": "2022",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/dodge/charger_2022/icon_charger2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "d1ceaeef-ba4b-467a-99e1-d96e38b1cfda",
+        "title": "Dodge Durango",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/dodge/durango_2023/durangoprev_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "6b445d2f-bdea-4e7f-80bd-0827231fe688",
+        "title": "Dodge Durango",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/dodge/durango_2022/durango2022pv_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "e0954d24-0fa5-417e-8686-03866ca0cf35",
+        "title": "Ford Bronco",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/bronco_2023/previewbronco2_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "c08ed2d2-46b3-4ff2-850c-bbe3fdea23a6",
+        "title": "Ford Bronco",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/bronco_2022/desert1_7Ssp21j_small_preview_no_crop.png"
+    },
+    {
+        "id": "696ad100-1191-4bf9-b6b0-9e7339fff19b",
+        "title": "Ford Bronco Raptor",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/bronco_raptor_2023/1icon23broncoraptor_small_preview_no_crop.png"
+    },
+    {
+        "id": "4da88e79-e37e-45a6-9080-91a3484888c3",
+        "title": "Ford Bronco Raptor",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/bronco_raptor_2022/3icon_ford_bronco_raptor2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "70845556-64dd-4d73-ac24-a15c0d7c871b",
+        "title": "Ford Bronco Sport",
+        "year": "2024",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/bronco_sport_2024/2fordbroncosport2024_small_preview_no_crop.png"
+    },
+    {
+        "id": "5d82ba1d-926f-496a-ab80-16e4f1a4dce2",
+        "title": "Ford Bronco Sport",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/bronco_sport_2023/bronc_sport11_small_preview_no_crop.png"
+    },
+    {
+        "id": "91115bd7-770a-42df-af2d-1a4244e46ae6",
+        "title": "Ford Expedition",
+        "year": "2024",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/expedition_2023/expedition24_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "eb94e89e-9120-4dfe-9e72-87030004748b",
+        "title": "Ford Expedition",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/expedition_2023/expedition23_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "c0ae9175-77ad-49cb-a27e-753c5c0ff858",
+        "title": "Ford Explorer",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/explorer_2023/previewexplor_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "3dd9b942-109e-4947-a902-53efec171740",
+        "title": "Ford Explorer",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/explorer_2022/silver1_qiUsDIW_small_preview_no_crop.png"
+    },
+    {
+        "id": "6cf461d7-974b-4f6e-9bed-8e64afd298e1",
+        "title": "Ford F-150",
+        "year": "2023",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford_f-150/2023/f150_small_preview_no_crop.png"
+    },
+    {
+        "id": "bfade7f1-c916-40d6-bab1-e7655c3384c9",
+        "title": "Ford F-150",
+        "year": "2022",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford_f-150/2022/2022_f-150_icon_small_preview_no_crop.png"
+    },
+    {
+        "id": "0a9bd04f-99f7-4937-a0a3-436960f247fe",
+        "title": "Ford F-150 Lightning",
+        "year": "2023",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/f150_lightning_2023/ford-f-150-lightning-2022-2023-1669010106.5801964_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "7e286b9b-e43c-4aad-9205-22d09ca74bb6",
+        "title": "Ford F-150 Lightning",
+        "year": "2022",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/lightning_2022/lightning_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "a4c0cb53-704c-4e7b-9c6a-59c35ff6f099",
+        "title": "Ford F-150 Raptor",
+        "year": "2023",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/f150_raptor_2023/rap2023pv_small_preview_no_crop.png"
+    },
+    {
+        "id": "cd453201-2a17-4917-8734-ab25c7ea2949",
+        "title": "Ford F-150 Raptor",
+        "year": "2022",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/f150_raptor_2022/2022raptorf150pv_small_preview_no_crop.png"
+    },
+    {
+        "id": "933b90ab-131d-4c98-853b-f1e3ac113b5b",
+        "title": "Ford F-150 Raptor R",
+        "year": "2023",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/f-150_raptor_r_2023/raptorr_small_preview_no_crop.png"
+    },
+    {
+        "id": "55536074-7b06-4ae0-8e16-27705ff2a92e",
+        "title": "Ford F-250",
+        "year": "2023",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/f-250/2023/f250_2023_iconalyosha_2-2-2._small_preview_no_crop.png"
+    },
+    {
+        "id": "2d98fb61-3795-4a66-b40f-203cc5ea472e",
+        "title": "Ford F-250",
+        "year": "2022",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/f-250/2022/2022_super_duty_f-250__limited_crew_6-3-4_sw_1_small_preview_no_crop.png"
+    },
+    {
+        "id": "8b2ed72d-916a-4ae4-bffc-86f80c907f92",
+        "title": "Ford F-350",
+        "year": "2023",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/f-350/2023/f350pv_small_preview_no_crop.png"
+    },
+    {
+        "id": "55be8d83-03bf-474c-84fd-bd6763c8627f",
+        "title": "Ford F-350",
+        "year": "2022",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/f-350/2022/2022f350pv_small_preview_no_crop.png"
+    },
+    {
+        "id": "27fb444b-4f63-42a6-afd0-dcb01a75aada",
+        "title": "Ford F-450",
+        "year": "2023",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/f450_2022/prev_small_preview_no_crop.png"
+    },
+    {
+        "id": "f172872d-126e-4e01-8969-28f5fe6b635b",
+        "title": "Ford F-450",
+        "year": "2022",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/f450_2022/stone2_gNkDVTN_small_preview_no_crop.png"
+    },
+    {
+        "id": "7f888632-8301-46fd-8b64-34a921c07316",
+        "title": "Ford Maverick",
+        "year": "2024",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/maverick_2024/1icon_lariat_fordmaverick2024_small_preview_no_crop.png"
+    },
+    {
+        "id": "77365538-343a-4856-b4bb-4d8dbcea0365",
+        "title": "Ford Maverick",
+        "year": "2023",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford_maverick222/maverick2023_icon_small_preview_no_crop.png"
+    },
+    {
+        "id": "2503a476-b063-4b51-9310-f3d9aa213b79",
+        "title": "Ford Mustang",
+        "year": "2024",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/mustang_2024/fordmustang2024_small_preview_no_crop.png"
+    },
+    {
+        "id": "2107836d-8fa0-4279-a853-214386a5c653",
+        "title": "Ford Mustang",
+        "year": "2023",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/mustang_2023/mach1prem23_icon_CeGpRXl_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "b8242bfd-158a-444c-90ef-acf1b07df0eb",
+        "title": "Ford Mustang Mach-E",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/mach_e_2023/me2023pv_small_preview_no_crop.png"
+    },
+    {
+        "id": "c9408fe8-f040-402a-a304-397155d991c1",
+        "title": "Ford Mustang Mach-E",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/mach-e_2022/1icon_ford_mach-e_2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "7cc1bf00-5251-467a-a76f-79cc6b5f5e97",
+        "title": "Ford Ranger",
+        "year": "2023",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/ranger_2023/2023_ranger_lariat_tremor_icon_8XclbPZ_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "ddd246f6-21bb-4f1b-8deb-3e5603bb574d",
+        "title": "Ford Ranger",
+        "year": "2022",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ford/ranger_2022/1icon_ford_ranger_2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "3ce3c8cf-0475-4c26-a396-c350114e1c9a",
+        "title": "GMC Acadia",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/gmc/acadia_2023/1icon_gmc_acadia_2023_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "4251c047-4b13-413c-b098-86ab8ee9784f",
+        "title": "GMC Acadia",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/gmc/acadia_2022/1icon_gmcacadia2022_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "c2fe5dff-acc0-4adc-b366-35adaa596aa8",
+        "title": "GMC Canyon",
+        "year": "2023",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/gmc/canyon_2023/denali_23_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "872ae269-e033-4388-bbc3-0ce6a155f1be",
+        "title": "GMC Canyon",
+        "year": "2022",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/gmc/canyon_2022/2icon_gmccanyon2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "14b49c66-b2f9-46f3-9223-5ecd7f6fb131",
+        "title": "GMC Hummer EV PICKUP",
+        "year": "2023",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/hummer_ev/hummerpreview_small_preview_no_crop.png"
+    },
+    {
+        "id": "40bd0429-d248-42c2-b0af-21a41df6dfb3",
+        "title": "GMC Hummer EV SUV",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/hummer_ev/hummer_suv_icon_small_preview_no_crop.png"
+    },
+    {
+        "id": "3e2c0d26-752d-4a4d-accf-b1bb831013c4",
+        "title": "GMC Sierra 1500",
+        "year": "2023",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/gmc/sierra_1500_2023/siera1500_ajGO5CR_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "442dac53-c9b5-49be-bb09-c632090a60dd",
+        "title": "GMC Sierra 1500",
+        "year": "2022",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/gmc/sierra_1500_2022/silver1_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "2fc06ac2-b366-4ed9-bb1b-99143149fcee",
+        "title": "GMC Sierra HD 2500",
+        "year": "2023",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/gmc/sierra_2500_2023/sierra123_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "f669b067-bfa9-4338-8f14-2b7e38de0ec1",
+        "title": "GMC Sierra HD 2500",
+        "year": "2022",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/gmc/sierra_2500_2022/2022sierra2500pv_small_preview_no_crop.png"
+    },
+    {
+        "id": "c9d39e00-4ef5-4403-af57-ddd64f78dabf",
+        "title": "GMC Sierra HD 3500",
+        "year": "2023",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/gmc/sierra_3500_2023/7qcpkhmi_fskb5y5cxukzzguvovcoiyceaudcozx4qncusy0kjaovabosl1_df9jdrduubuogeshqkrkgnzzngcj_1_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "48bc2b12-f1e5-4dda-a645-d7523628477c",
+        "title": "GMC Sierra HD 3500",
+        "year": "2022",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/gmc/sierra_3500_2022/sierra3500_2022pv_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "463bbef4-c13b-4232-a09a-2c0027f04d2e",
+        "title": "GMC Yukon",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/gmc/yukon_2022/blue1_uowogxi_HZknYc9_small_preview_no_crop.png"
+    },
+    {
+        "id": "fb436ed9-a9eb-4cd1-90ac-0c5399b398a5",
+        "title": "GMC Yukon",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/gmc/yukon_2022/satin144_small_preview_no_crop.png"
+    },
+    {
+        "id": "5dd3262a-5340-4287-af15-fbc1eb67db7f",
+        "title": "Honda Odyssey",
+        "year": "2023",
+        "body_style": "Минивэн",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/honda/odyssey_23_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "7fd379bc-e07d-43b9-96a1-5698867f7979",
+        "title": "Honda Odyssey",
+        "year": "2022",
+        "body_style": "Минивэн",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/honda/odyssey_22_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "e9d781e4-70d4-4f04-8531-ce602d0e2ce7",
+        "title": "Honda Ridgeline",
+        "year": "2023",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/honda/ridgeline/ridgeline_23_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "18f80ba3-688a-4e76-bd3f-68be291c0155",
+        "title": "Honda Ridgeline",
+        "year": "2022",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/honda/ridgeline/ridgeline_22_icon_0unnjjE_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "b235d084-b531-4926-81e4-f8c2f2cd565f",
+        "title": "Hyundai Staria",
+        "year": "2022",
+        "body_style": "Минивэн",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/hyundai/hyundai_staria_small_preview_no_crop.png"
+    },
+    {
+        "id": "55367aa2-9591-43ec-8215-882a880a265c",
+        "title": "Infiniti Q50",
+        "year": "2023",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/infiniti/q50_2023/1icon_q50_2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "b8fdddb5-7a12-4731-a74e-0a8ac9446737",
+        "title": "Infiniti Q50",
+        "year": "2022",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/infiniti/q50/q50_icon_small_preview_no_crop.png"
+    },
+    {
+        "id": "e3fe51a1-a41c-42ce-8dfe-aedfa2c26e59",
+        "title": "Infiniti Q60",
+        "year": "2022",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/infiniti/q60_22/icon_infinitiq602022_small_preview_no_crop.png"
+    },
+    {
+        "id": "b4e8d536-a01d-407f-839d-003629dae2f5",
+        "title": "Infiniti Q60",
+        "year": "2021",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/infiniti/q60/q60_pv_small_preview_no_crop.png"
+    },
+    {
+        "id": "a7ebaa3b-226f-4ce5-8786-7776de3caf61",
+        "title": "Infiniti QX55",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/infiniti/qx55_2023/qx552023pv_small_preview_no_crop.png"
+    },
+    {
+        "id": "d7d99db3-8c31-4c50-85bd-fbbbc6e9de0f",
+        "title": "Infiniti QX55",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/qx55_2022/qx55pv_small_preview_no_crop.png"
+    },
+    {
+        "id": "d88f72d8-4953-42be-a311-958dfdee26d9",
+        "title": "Jeep Gladiator",
+        "year": "2023",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/gladiator_2023/glad_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "8fa5aaba-88d7-4447-8b9f-27c556e22e02",
+        "title": "Jeep Gladiator",
+        "year": "2022",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/gladiator_2022/1gladiator_icon_2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "40efc04f-f5d0-4d01-ad87-884ad5b9eb21",
+        "title": "Jeep Grand Cherokee",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/grand_cherokee_2023/2023gc2pv_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "fb8025f6-7657-4cbb-916c-20bf7fef9560",
+        "title": "Jeep Grand Cherokee",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/grand_cherokee_2022/2022gcherokee2rpv_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "a9f693b9-0d90-4dd8-adcd-4766b7d96328",
+        "title": "Jeep Grand Cherokee 4xe",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/grand_cherokee_4xe_2023/2023_grand_cherokee_4xe_summit_reserve_two-toned_4xe_vrpc_1_Y3PyeAx_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "17c2f0eb-f690-46a0-a241-ac4afeb599fe",
+        "title": "Jeep Grand Cherokee 4xe",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/gc_4xe_2022/4xesr2022_hb_1_0rzE35G_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "68482f7d-21af-4de2-8242-00f85b738acb",
+        "title": "Jeep Grand Cherokee L",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/grand_cherokee_l_2023/2023gcl3pv_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "1d142fb2-0d1a-423d-a2ab-8f9d0d52843c",
+        "title": "Jeep Grand Cherokee L",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/cherokee_l/gcl2022pv_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "8a7539fb-5ba6-4135-a5c9-0d2ffdd5993c",
+        "title": "Jeep Wagoneer",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/wagoneer_2023/1icon_wagoneer2023_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "d8e86b54-5a72-45b2-942f-eff22bc8b4c8",
+        "title": "Jeep Wagoneer",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/wagoneer_2022/2icon_wagoneer2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "636749fe-ea3c-453d-91fb-6784e5c20af7",
+        "title": "Jeep Wrangler",
+        "year": "2024",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/wrangler/2024/rubicon24_4door_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "e9699adc-b153-4695-bf36-b48040ec9929",
+        "title": "Jeep Wrangler",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/wrangler/2023/altitude_YGNo4vo_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "9269db1c-32ac-416a-8823-3c0d2bbdba95",
+        "title": "Jeep Wrangler 4xe",
+        "year": "2024",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/wranglerxe_2024/prev.png_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "9e4ae524-f3fb-4d6d-9483-796451012d7d",
+        "title": "Jeep Wrangler 4xe",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/wrangler4xe_2023/4xealt2023_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "9d8e8ed8-a1dc-4232-acc2-d19d86e57edb",
+        "title": "Jeep Wrangler Rubicon 392",
+        "year": "2024",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/rubicon_392_2024/icon_jeepwranglerrubicon392_small_preview_no_crop.png"
+    },
+    {
+        "id": "4dbc9272-300a-433e-b6c3-4a6ec23bfa79",
+        "title": "Jeep Wrangler Rubicon 392",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/jeep/rubicon392_2023/rbcn2023_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "d8c731de-32f8-4447-ba67-d2b47f0ed11e",
+        "title": "Land Rover Range Rover",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/land_rover/rangerover_small_preview_no_crop.png"
+    },
+    {
+        "id": "0d768619-d228-48e1-bffd-04f5e19b7317",
+        "title": "Land Rover Range Rover Sport",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/land_rover/rangerover_sport_2023/landroverrr_sport_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "9cf969c0-746e-49bb-98c7-27d491e7ba4f",
+        "title": "Lexus GX",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lexus/gx/gx_2023_460_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "a765c6b9-4d5f-41d9-afc0-e92740d44cb3",
+        "title": "Lexus LC 500",
+        "year": "2024",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lexus/lc_500_2022/lc500_24_iconjpeg_RWGhWGr_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "f09f9e26-d735-4d7e-8d83-6464d38d0af2",
+        "title": "Lexus LC 500",
+        "year": "2023",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lexus/lc_500_2022/lc500_2023_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "5cea7bcb-b0c4-4097-98d6-4e36af3923a0",
+        "title": "Lexus LX",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lexus/lx/lexus_lx_600_2023_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "a800efde-1534-4f80-bb1a-ae59e8172dda",
+        "title": "Lexus RX",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lexus/rx/rx_500h_f-sport_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "0d7a0758-978f-4d68-81d8-d9de2eadf10c",
+        "title": "Lexus RZ 450e",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lexus/rz450e/rz_450e_luxury_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "423962d2-6a3e-45c2-a65b-952732d0195a",
+        "title": "Lincoln Aviator",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lincoln/aviator_2023/1icon_lincolnaviator_2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "3fdc5438-fbb5-45ac-a8f3-cb7e5ea91eff",
+        "title": "Lincoln Aviator",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lincoln/aviator_2022/icon_lincolnaviator_2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "fe1106b5-1435-47ca-bae4-f9031914c19f",
+        "title": "Lincoln Corsair",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lincoln_corsair/2023/lincoln_corsair_2023_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "427210bb-7c25-4f80-940f-8900b13a37f3",
+        "title": "Lincoln Corsair",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lincoln_corsair/2022/2022_corsair__gt_sr_1_small_preview_no_crop.png"
+    },
+    {
+        "id": "0e71e5fd-cf12-4921-b02f-dfb09557e41c",
+        "title": "Lincoln Nautilus",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lincoln/nautilus_2023/2icon_nautilus2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "9230a8a2-d519-4bb9-bb06-e293a7eaaa45",
+        "title": "Lincoln Nautilus",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lincoln/nautilus_2022/nautilus_icon_22_small_preview_no_crop.png"
+    },
+    {
+        "id": "bfac8eee-5f3f-4349-aabe-06b893f42797",
+        "title": "Lincoln Navigator",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lincoln/navigator_2023/1icon_navigator_2023_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "043a3b63-32dc-440f-b8b0-1f81fa862c0f",
+        "title": "Lincoln Navigator",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lincoln/navigator/2022/navigator_22_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "1fcd36f0-8262-4f41-86ad-cc37e588b9c0",
+        "title": "Lucid Air",
+        "year": "2023",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lucid/air_2023/5lucid_air_icon_2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "fa1a996e-5590-456a-b8d0-33a578fcf1bf",
+        "title": "Lucid Air",
+        "year": "2022",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/lucid/2icon_lucidair_2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "092cd424-40cc-45a6-b1f5-613ff552d732",
+        "title": "Nissan Armada",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/nissan/armada_2023/2023-nissan-armada_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "d7d50fe2-ff1b-47d9-ad48-ac5ea95f9a25",
+        "title": "Nissan Armada",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/nissan/armada_2022/armada1_gyj7sRL_small_preview_no_crop.png"
+    },
+    {
+        "id": "2583f53f-0172-41d9-a22f-ff9c674088cc",
+        "title": "Nissan GT-R",
+        "year": "2024",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/nissan/gt-r_2024/icon_nissangtr2024_small_preview_no_crop.png"
+    },
+    {
+        "id": "1a1e0193-90fc-42a4-abb7-a754ec2b62b4",
+        "title": "Nissan GT-R",
+        "year": "2023",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/nissan/gt-r_2023/1icon_nissangtr2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "d1e34893-b227-469b-b6dc-61d8aaf8f45a",
+        "title": "Nissan Titan",
+        "year": "2023",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/nissan/titan_2023/1icon_nissantitan_2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "3e0b0288-ad27-448b-a706-b8ab2e3c9bde",
+        "title": "Nissan Titan",
+        "year": "2022",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/nissan/titan_2022/1icon_titan_2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "c82dd30b-42ce-4d07-b8c6-215225f3f377",
+        "title": "Nissan Titan XD",
+        "year": "2023",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/nissan/titan_xd_2023/icon_nissantitanxd_2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "a21290c8-91be-451b-8b9c-12344fcae26f",
+        "title": "Nissan Titan XD",
+        "year": "2022",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/nissan/titan_xd_2022/1icon_titanxd2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "a21bce59-937b-4800-aace-36c3817406a6",
+        "title": "Nissan Z",
+        "year": "2023",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/nissan/z_2023/nissanzicon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "d74330a0-29bf-42ab-8c11-6b3af12e0622",
+        "title": "RAM 1500",
+        "year": "2023",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ram/2023_1500/ram20231500pv_small_preview_no_crop.png"
+    },
+    {
+        "id": "dd30b4aa-d9c4-446c-835b-503a465c4186",
+        "title": "RAM 1500",
+        "year": "2022",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ram/2022_1500/2022ram1500pv_small_preview_no_crop.png"
+    },
+    {
+        "id": "84ce7ef4-5adc-4d53-ae35-202bef01f7ec",
+        "title": "RAM 1500 TRX",
+        "year": "2023",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ram/2023_1500/2023trxpv_small_preview_no_crop.png"
+    },
+    {
+        "id": "c397054b-caaa-4882-b54f-40ecef2592c2",
+        "title": "RAM 1500 TRX",
+        "year": "2022",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ram/2022_trx/2022trxcat_small_preview_no_crop.png"
+    },
+    {
+        "id": "a9c4e85c-b5b1-4378-b435-d48d7dbfe8c4",
+        "title": "RAM 2500 HD",
+        "year": "2023",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ram/2022_2500/2022ram2500pv_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "9633d69a-8326-432b-ab37-60c2ef103adb",
+        "title": "RAM 2500 HD",
+        "year": "2022",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ram/2022_2500/2022ram2500pv_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "d6f98305-1d3f-4729-8ef7-b2d7ee8e7665",
+        "title": "RAM 3500 HD",
+        "year": "2023",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ram/2023_3500/ram35002023pv_small_preview_no_crop.png"
+    },
+    {
+        "id": "8ca36d6e-81b0-4f87-8ce5-0a4bc857eee9",
+        "title": "RAM 3500 HD",
+        "year": "2022",
+        "body_style": "Тяжелый пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/ram/2022_3500/20223500rampv_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "1d8205a3-aea2-4c0b-a249-e7e82b7ac792",
+        "title": "Rivian R1S",
+        "year": "2022",
+        "body_style": "Внедорожник 5дв.",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/rivian/r1s/052dfc8e-434a-4144-9f30-895c19733305_small_preview_no_crop.png"
+    },
+    {
+        "id": "f3e20ce7-4643-408d-9ecf-95d68e51877a",
+        "title": "Rivian R1S",
+        "year": "2021",
+        "body_style": "Внедорожник 5дв.",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/rivian/r1s/2021-rivian-r1s_small_preview_no_crop.png"
+    },
+    {
+        "id": "cba68ca0-73a8-492f-a15d-b85ef31f2cd7",
+        "title": "Rivian R1T",
+        "year": "2022",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/rivian/r1t/electro2023_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "2038cfed-f2cd-4cb6-8467-d7e085092b19",
+        "title": "Rivian R1T",
+        "year": "2021",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/rivian/r1t/rivian-r1t-catalogue-preview_small_preview_no_crop.png"
+    },
+    {
+        "id": "13608ae5-5dd6-47e9-bbec-2f76febb7e90",
+        "title": "Subaru Ascent",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/subaru/ascent_23/prev_small_preview_no_crop.png"
+    },
+    {
+        "id": "cad4ea83-0e17-46f5-8d03-95b1bc015658",
+        "title": "Subaru Ascent",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/subaru/ascent_2022/ascent_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "fb0454cd-d754-4132-bea4-0905ec0bac97",
+        "title": "Subaru Legacy",
+        "year": "2024",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/subaru/legacy_2024/prev1_small_preview_no_crop.png"
+    },
+    {
+        "id": "c28b719b-9be9-4a44-a436-fe48a4a91af8",
+        "title": "Subaru Legacy",
+        "year": "2023",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/subaru/legacy_2023/1iconsubarulegacy2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "03a7a932-5df3-4311-8679-bf5c54e771ae",
+        "title": "Tesla Model 3",
+        "year": "2023",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/tesla/tesla_model_3_2023/icon_teslamodel32023_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "1888c7ba-a858-4bda-ac59-77a4bf29dcf2",
+        "title": "Tesla Model S",
+        "year": "2023",
+        "body_style": "Лифтбек",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/tesla/tesla_model_s_2023/teslaprev_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "1aa87447-99cc-4d1d-8685-8b4fe98d8b75",
+        "title": "Tesla Model S",
+        "year": "2022",
+        "body_style": "Лифтбек",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/tesla/tesla_model_s_2022/1icon_teslamodels_2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "f37425aa-758b-4957-bc21-de25d989c5f7",
+        "title": "Tesla Model X",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/tesla/tesla_model_x/2023/model_x_23_plaid_icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "8535b95a-52e8-499e-a3b0-8f94f8ee483d",
+        "title": "Tesla Model Y",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/tesla/tesla_model_y_2023/icon_teslamodely2023_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "6e23bdce-53aa-4cf0-8a09-2ae1372a35aa",
+        "title": "Toyota 4Runner",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/4runner/2023/4runner23_40th_anniversaryicon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "e309b82f-42dd-4414-b6b2-13290996b32b",
+        "title": "Toyota 4Runner",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/4runner/trd_pro/4runner2021_limited_army_green_small_preview_no_crop.png"
+    },
+    {
+        "id": "e7ced8e8-1d02-4920-b89e-0bc499ae1134",
+        "title": "Toyota Avalon",
+        "year": "2022",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/avalon_2022/pearl2_7glbtKs_small_preview_no_crop.png"
+    },
+    {
+        "id": "70bdfa03-9205-41b9-8e85-b77ac4f372b3",
+        "title": "Toyota Avalon",
+        "year": "2021",
+        "body_style": "Седан",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/avalon_2021/avalon_preview_small_preview_no_crop.png"
+    },
+    {
+        "id": "a093bc26-170e-41bf-9d33-95a2b2de0e63",
+        "title": "Toyota Crown Cross-Sedan",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/crown_crossover_2023/crowncross23_icon_ae7cd1a_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "53268fdb-bd5d-44f5-954a-da37fe0b64ce",
+        "title": "Toyota Grand Highlander",
+        "year": "2024",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/grand_highlander/grand_highlander_24icon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "f4cd9832-cadb-4e52-a967-86abc7b596a0",
+        "title": "Toyota GR Supra",
+        "year": "2024",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/gr_supra/2024/mikan1_small_preview_no_crop.png"
+    },
+    {
+        "id": "0da7d979-a43d-455c-92e3-3fd481bb8486",
+        "title": "Toyota GR Supra",
+        "year": "2023",
+        "body_style": "Купе",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/gr_supra/2023/a91-mt_culater_supra_2023_2e372e0_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "51876f1b-ac46-4ead-b16e-c1fdb67e2deb",
+        "title": "Toyota Highlander Hybrid",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/highlander_hybrid_2023/preview_small_preview_no_crop.png"
+    },
+    {
+        "id": "c3de29bf-8f83-4fe3-9082-ed84d9a323e8",
+        "title": "Toyota Highlander Hybrid",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/highlander_hybrid_2022/silver1_1nf7TXK_small_preview_no_crop.png"
+    },
+    {
+        "id": "d4799aaf-5a6e-4a44-a769-a394371de7da",
+        "title": "Toyota Prius",
+        "year": "2023",
+        "body_style": "Хэтчбек 5 дв.",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/prius_2023/preview_G4LYdHE_small_preview_no_crop.png"
+    },
+    {
+        "id": "40079519-43ff-40f3-a5d0-5f8481ae344b",
+        "title": "Toyota Prius",
+        "year": "2022",
+        "body_style": "Хэтчбек 5 дв.",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/prius_2022/silver1_KQ3oOnr_small_preview_no_crop.png"
+    },
+    {
+        "id": "6d5ff2e3-f3e4-4403-be3b-3acd3aecd2cb",
+        "title": "Toyota Prius Prime",
+        "year": "2023",
+        "body_style": "Хэтчбек 5 дв.",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/prius_prime_2023/2icon_prius_prime2023_small_preview_no_crop.png"
+    },
+    {
+        "id": "de7ae678-ad9f-4a48-9eb8-66b1aa0910b3",
+        "title": "Toyota Prius Prime",
+        "year": "2022",
+        "body_style": "Хэтчбек 5 дв.",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/prius_2022/1icon_toyotapriusprime2022_small_preview_no_crop.png"
+    },
+    {
+        "id": "c257b30a-eaed-479b-bb7c-72a316857de4",
+        "title": "Toyota Sequoia",
+        "year": "2023",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/sequoia_2023/trdpro_1_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "13ed41cb-a253-410b-8598-3c991d9f443e",
+        "title": "Toyota Sequoia",
+        "year": "2022",
+        "body_style": "Внедорожник",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/sequoia_2022/sequoia_22_icon_small_preview_no_crop.png"
+    },
+    {
+        "id": "ba4872eb-e237-4b2f-8ac6-95df5ff776fe",
+        "title": "Toyota Sienna",
+        "year": "2023",
+        "body_style": "Минивэн",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/sienna_2023/sienna_2023_platinum_windchill_pearl_small_preview_no_crop.png"
+    },
+    {
+        "id": "0e9a44ad-19a8-4232-9e2b-66cc77f0a97e",
+        "title": "Toyota Sienna",
+        "year": "2022",
+        "body_style": "Минивэн",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/sienna_2022/gray2_small_preview_no_crop.png"
+    },
+    {
+        "id": "73439ab1-e85b-4219-9962-cf945eb11275",
+        "title": "Toyota Tacoma",
+        "year": "2023",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/tacoma/2023/tacoma23_trd_proicon_small_preview_no_crop.jpg"
+    },
+    {
+        "id": "81404013-4fd2-4eca-9f46-20ee5f4532ec",
+        "title": "Toyota Tacoma",
+        "year": "2022",
+        "body_style": "Среднеразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/tacoma/2022/mbm_d5_1_small_preview_no_crop.png"
+    },
+    {
+        "id": "032e300b-3288-456a-a5e1-fa977b19ad50",
+        "title": "Toyota Tundra",
+        "year": "2023",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/tundra2023/2023_tundra_trd_pro_mgm_1_small_preview_no_crop.png"
+    },
+    {
+        "id": "13813edf-0cc8-44c2-b4b8-1263172596df",
+        "title": "Toyota Tundra",
+        "year": "2022",
+        "body_style": "Полноразмерный пикап",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/tundra22/img_20211019_160443_small_preview_no_crop.png"
+    },
+    {
+        "id": "7f35a820-318a-4a13-bb5b-7932f1d45adb",
+        "title": "Toyota Venza",
+        "year": "2023",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/venza_2023/li_small_preview_no_crop.png"
+    },
+    {
+        "id": "a03667b6-a675-42b8-9458-9691030833c8",
+        "title": "Toyota Venza",
+        "year": "2022",
+        "body_style": "Кроссовер",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/venza2022/celestial1_small_preview_no_crop.png"
+    },
+    {
+        "id": "8ed8efd4-c1e1-411d-8ccc-373f02135fe2",
+        "title": "Toyota Yaris GR",
+        "year": "2022",
+        "body_style": "Хэтчбек 3 дв.",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/toyota/2023yarisgr/screenshot_2022-10-27_at_00.13.28_small_preview_no_crop.png"
+    },
+    {
+        "id": "79de4a36-a971-4e8b-a04e-1003b996311e",
+        "title": "Toyota Yaris GR",
+        "year": "2021",
+        "body_style": "Хэтчбек 3 дв.",
+        "img_url": "https://autopremiumgroup.ru/m/_versions/yaris_gr/toyota-gr-yaris8_small_preview_no_crop.jpg"
+    }
+]
